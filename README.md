@@ -1,2 +1,37 @@
 # tugas2wb
-nugas
+
+<html>
+    <head>
+        <title>Tugas Pertemuan 2 - Membuat Resume | Yusuf Nashir Ramadhan</title>
+    </head>
+
+    <body bgcolor="##9CE5DA">
+        <h1 align="center"><font face="Trebuchet Ms">SAY HI ! <i>And</i> Welcome</font></h1>
+        <h3 align="center"><font face="Courier New" color="white">Oleh Yusuf Nashir Ramadhan</font></h3><hr>
+
+        <h2><u><font face="s compatible®">Pengalaman Kuliah di UIM <i>(Universitas Indonesia Mandiri)</i></font></u></h2>
+        <p align="justify"><font face="MS-Mincho">
+            Pengalaman saya selama kuliah di Uim yaitu yang pertama jelas biaya kuliah nya terjangkau karena saya bukan penerima beasiswa, yang kedua Waktu kuliah nya juga flexibel cocok untuk yang sedang mengejar karir, dan dosen nya ramah juga baik loh!
+
+
+
+        </font></p><br>
+
+        <font face="solas®t">
+        <h2><u>Resume</u></h2>
+        <ol>
+            <li>Nama  : Yusuf Nashir Ramadhan</li>
+            <li>Nim   : 5520122025</li>
+            <li>Prodi : Informatika</li>
+            <li>TTL   : Bekasi, 12 Januari 1999</li>
+            <li>Hobi  : Swimming and Gaming</li>
+        </ol>
+
+        <h2><u>Resume</u></h2>
+        <ul>
+            <li>Makanan Kesukaan 1 : Bebek Madura</li>
+            <li>Makanan Kesukaan 2 : Mie Ayam</li>
+            <li>Makanan Kesukaan 3 : Apa aja yang penting makanan</li>
+            
+        </ul>
+        
